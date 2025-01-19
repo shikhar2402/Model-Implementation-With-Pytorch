@@ -1,2 +1,28 @@
-# Machine Learning Collection
-In this repository you will find tutorials and projects related to Machine Learning. I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup problems to solve specific problems. For most I have also done video explanations on YouTube if you want a walkthrough for the code. If you got any questions or suggestions for future videos I prefer if you ask it on [YouTube](https://www.youtube.com/c/AladdinPersson). This repository is contribution friendly, so if you feel you want to add something then I'd happily merge a PR :smiley:
+# **Model-Implementation-With-Pytorch**  
+Welcome to this repository! 🎉 Here, you'll find implementations of various deep learning models built **from scratch** using **PyTorch**. This journey takes you through fundamental models like LeNet and AlexNet to advanced architectures like Transformers and YOLO.  
+
+## **Table of Contents**  
+- [Overview](#overview)  
+- [Implemented Models](#implemented-models)  
+
+---
+
+## **Overview**  
+This repository serves as a comprehensive guide for anyone looking to understand how deep learning models are constructed and implemented. Each model is built from the ground up, demonstrating:  
+- Core principles of model design.  
+- Step-by-step implementation in PyTorch.  
+- Theoretical underpinnings and practical use cases.  
+
+---
+
+## **Implemented Models**  
+Here’s a list of models implemented in this repository:  
+1. **LeNet**: The pioneer in Convolutional Neural Networks.  
+2. **VGG**: Introduced deeper architectures to CNNs.  
+3. **GoogLeNet (Inception)**: A network with multiple-sized filters (Inception module).  
+4. **EfficientNet**: A scalable and efficient convolutional model.  
+5. **GAN (Generative Adversarial Network)**: A framework for generating realistic data samples.
+6. **Transformer**: The foundation of modern NLP and vision tasks.  
+7. **YOLO**: Real-time object detection architecture.  
+
+---
