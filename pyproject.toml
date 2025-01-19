@@ -1,0 +1,17 @@
+[project]
+name = "model-implementation-with-pytorch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "altair==5.1.1",
+    "tensorboard==2.13.0",
+    "tokenizers==0.13.3",
+    "torch==2.0.1",
+    "torchaudio==2.0.2",
+    "torchmetrics==1.0.3",
+    "torchtext==0.15.2",
+    "torchvision==0.15.2",
+    "wandb==0.15.9",
+]
