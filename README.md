@@ -26,3 +26,24 @@ Here’s a list of models implemented in this repository:
 7. **YOLO**: Real-time object detection architecture.  
 
 ---
+
+## **Setup Instructions**
+
+This repository uses **uv**, a lightning-fast and efficient tool for managing Python virtual environments. **uv** simplifies the process of creating, activating, and managing environments while ensuring optimal performance for Python projects.
+
+Follow these steps to set up your environment and get started:
+
+1. **Install `uv`**  
+   ```bash
+   pip install uv
+2. **Create a virtual environment**  
+   ```bash
+   uv venv --clear
+3. **Activate the virtual environment**  
+   ```bash
+   source .venv/bin/activate
+4. **Install all requirement using uv**  
+   ```bash
+   uv pip install -r requirements.txt
+
+---
